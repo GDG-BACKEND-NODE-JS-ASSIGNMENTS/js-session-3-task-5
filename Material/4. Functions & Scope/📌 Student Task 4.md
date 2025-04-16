@@ -1,0 +1,3 @@
+- Create a function that takes **two numbers** as parameters and returns the sum.
+- Create an **arrow function** that prints a greeting message.
+- Experiment with **global vs. local scope** by defining variables inside and outside functions.

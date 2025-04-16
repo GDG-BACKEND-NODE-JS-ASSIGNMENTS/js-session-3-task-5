@@ -1,0 +1,3 @@
+- Create an **array of numbers** and use `.map()` to double each value.
+- Create an **object** representing a user (name, age, email).
+- Add and modify properties in the object dynamically.

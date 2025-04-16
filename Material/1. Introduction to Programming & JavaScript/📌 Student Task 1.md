@@ -1,0 +1,2 @@
+- Research **what back-end development is** and write a short summary.
+- Identify at least **three real-world applications** of back-end development.

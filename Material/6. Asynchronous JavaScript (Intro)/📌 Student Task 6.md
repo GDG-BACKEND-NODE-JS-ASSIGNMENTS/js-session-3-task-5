@@ -1,0 +1,3 @@
+- Write a function using `setTimeout` that logs a message after 2 seconds.
+- Create a **Promise** that resolves after 3 seconds and logs "Done!".
+- Convert the Promise to use `async/await`.

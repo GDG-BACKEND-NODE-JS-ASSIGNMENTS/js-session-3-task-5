@@ -1,0 +1,4 @@
+- Write a script that:
+    - Asks for user input (e.g., `prompt("Enter a number")`).
+    - Uses `if-else` to check if the number is even or odd.
+    - Uses a `for` loop to print numbers from 1 to 10.
